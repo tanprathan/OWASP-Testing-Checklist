@@ -4,8 +4,8 @@ OWASP based Web Application Security Testing Checklist is an Excel based checkli
 This checklist is completely based on OWASP Testing Guide v5. The OWASP Testing Guide includes a “best practice” penetration testing framework which users can implement in their own organizations and a “low level” penetration testing guide that describes techniques for testing most common web application security issues mapping with CWE. Moreover, the checklist also contains OWASP Risk Assessment Calculator and Summary Findings template.
 
 ### File Hash and Scan Result
-SHA-256: 6e3d359e3d5976c720b3c78359b53884eda46030e3058b59a7d5e9ae9296c211
-VirusTotal: https://www.virustotal.com/gui/file/6e3d359e3d5976c720b3c78359b53884eda46030e3058b59a7d5e9ae9296c211
+- SHA-256: 6e3d359e3d5976c720b3c78359b53884eda46030e3058b59a7d5e9ae9296c211
+- VirusTotal: https://www.virustotal.com/gui/file/6e3d359e3d5976c720b3c78359b53884eda46030e3058b59a7d5e9ae9296c211
 
 ### Contribution
 Your contributions and suggestions are welcome.
